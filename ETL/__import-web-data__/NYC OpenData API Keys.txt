@@ -1,4 +1,0 @@
-API Key ID: mwqc4zbo9gfsi4r12dus3l7b
-API Key Secret: 49sccb9f6oiwp5roxwpiwfasxr2xnd1a2t0s9na5bv6a9fys6e
-MirosNYC OpenData Token; APP Token: kzbDKb3dgcFUJVANZwPDHU6mt
-JSON: https://data.cityofnewyork.us/resource/erm2-nwe9.json
