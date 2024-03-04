@@ -1,2 +1,6 @@
 /.idea
 /venv
+/ETL/__credentials__
+/ETL/__import-web-data__/NYC OpenData API Keys.txt
+/ETL/json-to-bigQuery/my-project-bikes-409612-c44e8bf9470a.json
+/ETL/twitter/twitter_config.py
